@@ -2,6 +2,10 @@
 
 I'm just practicing problem solving for fun. I don't have full understanding on Time Complexity & Space Complexity yet. Going to learn it either way. 
 
+<p align="center">
+ <img src="https://img.shields.io/github/last-commit/ahmedTareque/Leetcode-Journey/master">
+</p>
+
 ## Problems & Solutions
 
 | # | Title | Solution | Basic idea (One line) |

@@ -2,6 +2,8 @@
 
 I'm just practicing problem solving for fun. I don't have full understanding on Time Complexity & Space Complexity yet. Going to learn it either way. 
 
+I am following this [14-patterns-to-ace-any-coding-interview](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) for better understanding on every patterns. 
+
 <p align="center">
  <img src="https://img.shields.io/github/last-commit/ahmedTareque/Leetcode-Journey/master">
 </p>
